@@ -1,2 +1,7 @@
 上传到GitHub说明：https://blog.csdn.net/Rao_Limon/article/details/108418233
 GitHub的几个状态{全过程}：https://www.jianshu.com/p/18ccace9661a
+技巧：
+1高级搜索
+2t键搜索文件名
+3仓库详情页按。–>VS code打开
+4仓库地址前加Gitpod. io/＃/   –>在线运行
